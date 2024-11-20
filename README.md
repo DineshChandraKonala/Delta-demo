@@ -1,2 +1,2 @@
 # Delta-demo
-This Delta -demo contains git and GitHub commands
+This is a demo for Git &amp; GitHub class.
